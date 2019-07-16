@@ -17,7 +17,7 @@ A: You can make more contextual and logical decisions about when to commit and k
 
 Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-A: Because Google Docs is more optimized for single file type revisions vs. code or other multi file projects.
+A: Because Google Docs is more optimized for single file type revisions vs. code or other multi file projects.  And that's a good thing because there are different needs for different applications.
 
 Q: How can you use the commands git log and git diff to view the history of files?
 
